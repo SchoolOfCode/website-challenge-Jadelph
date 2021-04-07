@@ -9,6 +9,11 @@ img {
     border-radius: 50%;
 }
 
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #8e7f7f;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
