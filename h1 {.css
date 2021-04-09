@@ -5,6 +5,18 @@
         color: #865858;
     }
     
+    .nameage {
+        color: rosybrown;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-style: italic;
+    }
+    
+    .getto {
+        font-size: xx-large;
+        color: rosybrown;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
     img {
         border-radius: 50%;
     }
@@ -24,19 +36,22 @@
     
     .flexcontainer {
         display: flex;
-        border: red 5px solid;
         margin: 60px;
     }
     
     .column1 {
-        border: green 5px solid;
         text-align: center;
         flex: 1;
     }
     
     .column2 {
-        border: orange 5px solid;
+        text-align: center;
         flex: 2;
+    }
+    
+    .questions {
+        font-size: large;
+        color: #865858;
     }
     
     p {
@@ -61,26 +76,15 @@
     }
     
     .flex-container-socials {
-        border: 5px solid;
-        display: flex
+        display: flex;
+        justify-content: space-evenly;
     }
     
     .navbar a:hover {
         background-color: #8e7f7f;
     }
-    
-    a {
-        color: darkslategray;
-    }
     /* Change the link color to on hover */
     
-    footer {
-        position: absolute;
-        bottom: 0;
-        width: 100%;
-        height: 2.5rem;
-        text-align: center;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        color: #8e7f7f;
-        font-size: 80%;
+    a {
+        color: rosybrown;
     }
