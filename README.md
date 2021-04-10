@@ -1,3 +1,27 @@
+**Planning and research**
+Me and Tania decided early on that we wanted a similar style of webpage, we decided this as it would be the best way to help each other as our code and layout would be similar and we would overcome the same problems.
+We decided on a layout from a biography online and both chose a color palette on Colorhunt.com that we wanted and shared them with each other to work from.
+When it came to deciding what we wanted to have on our page we started with the idea of going with a fabricated profile to keep it fun but when we saw the results from a survey a fellow bootcamper sent out we decided to go with normal profiles and came up with a interview, answer style format we thought that people would want to know about us and we want to know about them so to put accurate information was the best idea.
+
+**Creating the page**
+I started with adding a navigaton bar and title - this later became an issue as i orginally added the code as a list function it worked until i had to add another list for the social media links icons. I later changed this to just links with knowledge that was shared in one of our group meetings to just use the links, I then adjusted the CSS to have the correct colors and hover functions. I added in Tanias image and social media links which are fully functioning. The navbar just has # place holder links and is there for aesthetics purposes only. 
+
+I then began using flexbox in a coding session with Tania to create columns and space everything out evenly on my page. I wanted the page to have a clean and light feel to it, so with the content I used the <p> tag to seperate all of my text for ease,simplicity and aesthitic purposes. 
+  
+ I had a footer at the beginning of starting the project which seemed to work fine, when i added flexbox it was going in different places each team i adjusted the css and I struggled to get it to stay in the centre at the bottom- due to time restriction as this was at the end of week 2 i decided to keep the footer in the corner at the bottom in a very pale grey color. 
+ 
+ I then played around with colors using the color palette Tania chose and other colors that went well with them.
+
+
+
+
+
+
+
+
+
+
+
 # Website Challenge
 
 ## Overview
